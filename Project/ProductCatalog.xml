@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+<FitnessWatchCatalog>
+    <fitnessWatch id="amazfit_band_5">
+        <name>amazfit_band_5</name>
+        <price>39.99</price>
+        <image>amazfit_band5.jpg</image>
+        <manufacturer>Amazfit</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+            <accessory>band_replacement</accessory>
+        </accessories>
+    </fitnessWatch>
+    <fitnessWatch id="amazon_halo">
+        <name>Amazon Halo</name>
+        <price>49.99</price>
+        <image>amazon_halo.jpg</image>
+        <manufacturer>Amazon</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+            <accessory>band_replacement</accessory>
+        </accessories>
+    </fitnessWatch>
+
+    <fitnessWatch id="fitbit_ace3">
+        <name>Fitbit Ace 3</name>
+        <price>44.99</price>
+        <image>fitbit_ace3.jpg</image>
+        <manufacturer>Fitbit</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+            <accessory>band_replacement</accessory>
+        </accessories>
+    </fitnessWatch>
+    <fitnessWatch id="fitbit_charge5">
+        <name>Fitbit Charge 5</name>
+        <price>44.99</price>
+        <image>fitbit_charge5.jpg</image>
+        <manufacturer>Fitbit</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+            <accessory>band_replacement</accessory>
+        </accessories>
+    </fitnessWatch>
+    <fitnessWatch id="fitbit_inspire2">
+        <name>Fitbit Inspire 2</name>
+        <price>49.99</price>
+        <image>fitbit_inspire2.jpg</image>
+        <manufacturer>Fitbit</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+            <accessory>band_replacement</accessory>
+        </accessories>
+    </fitnessWatch>
+</FitnessWatchCatalog>
+
+<SmartWatchCatalog>
+    <smartWatch id="apl_8">
+        <name>Apple Watch 8</name>
+        <price>399.99</price>
+        <image>apl_8.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>5.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+            <accessory>band_replacement</accessory>
+        </accessories>
+    </smartWatch>
+    <smartWatch id="apl_se">
+        <name>Apple Watch SE</name>
+        <price>249.99</price>
+        <image>apl_se.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>5.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+            <accessory>band_replacement</accessory>
+        </accessories>
+    </smartWatch>
+
+    <smartWatch id="glx_4">
+        <name>Samsung Galaxy Watch 4</name>
+        <price>249.99</price>
+        <image>glx_4.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>5.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+            <accessory>band_replacement</accessory>
+        </accessories>
+    </smartWatch>
+    <smartWatch id="glx_5">
+        <name>Samsung Galaxy Watch 5</name>
+        <price>349.99</price>
+        <image>glx_5.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>5.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+            <accessory>band_replacement</accessory>
+        </accessories>
+    </smartWatch>
+    <smartWatch id="moto_100">
+        <name>Motorola Watch 100</name>
+        <price>249.99</price>
+        <image>moto_100.jpg</image>
+        <manufacturer>Motorola</manufacturer>
+        <condition>New</condition>
+        <discount>5.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+            <accessory>band_replacement</accessory>
+        </accessories>
+    </smartWatch>
+    <smartWatch id="moto_360">
+        <name>Motorola Watch 360</name>
+        <price>349.99</price>
+        <image>moto_360.jpg</image>
+        <manufacturer>Motorola</manufacturer>
+        <condition>New</condition>
+        <discount>5.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+            <accessory>band_replacement</accessory>
+        </accessories>
+    </smartWatch>
+</SmartWatchCatalog>
+
+<HeadphoneCatalog>
+    <headphone id="apl_airpods_max">
+        <name>Apple Airpods Max</name>
+        <price>599.99</price>
+        <image>apl_airpods_max.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+            <accessory>carrying_case</accessory>
+            <accessory>apl_magsafe</accessory>
+        </accessories>
+    </headphone>
+    <headphone id="apl_airpods_pro">
+        <name>Apple Airpods Pro</name>
+        <price>199.99</price>
+        <image>apl_airpods_pro.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+            <accessory>carrying_case</accessory>
+            <accessory>apl_magsafe</accessory>
+        </accessories>
+    </headphone>
+
+    <headphone id="sam_buds_2">
+        <name>Samsung Galaxy Buds 2</name>
+        <price>149.99</price>
+        <image>sam_buds_2.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+            <accessory>carrying_case</accessory>
+            <accessory>anker_powerbank</accessory>
+        </accessories>
+    </headphone>
+    <headphone id="sam_level">
+        <name>Samsung Level Headphones</name>
+        <price>99.99</price>
+        <image>sam_level.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+            <accessory>carrying_case</accessory>
+            <accessory>anker_powerbank</accessory>
+        </accessories>
+    </headphone>
+    <headphone id="sony_wf1000xm4">
+        <name>Sony WF 1000 XM4</name>
+        <price>249.99</price>
+        <image>sony_wf1000xm4.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+            <accessory>carrying_case</accessory>
+            <accessory>anker_powerbank</accessory>
+        </accessories>
+    </headphone>
+    <headphone id="sony_wh1000xm5">
+        <name>Sony WH 1000 XM5</name>
+        <price>349.99</price>
+        <image>sony_wh1000xm5.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+            <accessory>carrying_case</accessory>
+            <accessory>anker_powerbank</accessory>
+        </accessories>
+    </headphone>
+</HeadphoneCatalog>
+
+<VirtualRealityCatalog>
+    <virtualReality id="hp_reverb_g2">
+        <name>HP Reverb G2</name>
+        <price>399.99</price>
+        <image>hp_reverb_g2.jpg</image>
+        <manufacturer>HP</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+            <accessory>carrying_case</accessory>
+            <accessory>insignia_grip_kit_meta</accessory>
+            <accessory>insignia_battery_meta</accessory>
+        </accessories>
+    </virtualReality>
+    <virtualReality id="hp_windows">
+        <name>HP Windows Virtual Reality</name>
+        <price>299.99</price>
+        <image>hp_windows.jpg</image>
+        <manufacturer>HP</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+            <accessory>carrying_case</accessory>
+            <accessory>insignia_grip_kit_meta</accessory>
+            <accessory>insignia_battery_meta</accessory>
+        </accessories>
+    </virtualReality>
+
+    <virtualReality id="sam_hmd_odyssey">
+        <name>Samsung HMD Odyssey</name>
+        <price>349.99</price>
+        <image>sam_hmd_odyssey.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+            <accessory>carrying_case</accessory>
+            <accessory>insignia_grip_kit_meta</accessory>
+            <accessory>insignia_battery_meta</accessory>
+        </accessories>
+    </virtualReality>
+    <virtualReality id="logitech_chorus">
+        <name>Logitech Chorus</name>
+        <price>349.99</price>
+        <image>logitech_chorus.jpg</image>
+        <manufacturer>Logitech</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+            <accessory>carrying_case</accessory>
+            <accessory>insignia_grip_kit_meta</accessory>
+            <accessory>insignia_battery_meta</accessory>
+        </accessories>
+    </virtualReality>
+    <virtualReality id="meta_quest2">
+        <name>Meta Quest 2</name>
+        <price>449.99</price>
+        <image>meta_quest2.jpg</image>
+        <manufacturer>Meta</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+            <accessory>carrying_case</accessory>
+            <accessory>insignia_grip_kit_meta</accessory>
+            <accessory>insignia_battery_meta</accessory>
+        </accessories>
+    </virtualReality>
+</VirtualRealityCatalog>
+
+<PetTrackerCatalog>
+    <petTracker id="apl_airtag">
+        <name>Apple Airtag</name>
+        <price>29.99</price>
+        <image>apl_airtag.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+            <accessory>apl_magsafe</accessory>
+            <accessory>pet_collar</accessory>
+        </accessories>
+    </petTracker>
+    <petTracker id="cube">
+        <name>Cube Pet Tracker GPS</name>
+        <price>29.99</price>
+        <image>cube.jpg</image>
+        <manufacturer>Cube</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+            <accessory>pet_collar</accessory>
+        </accessories>
+    </petTracker>
+
+    <petTracker id="tile_mate">
+        <name>Tile Mate GPS</name>
+        <price>29.99</price>
+        <image>tile_mate.jpg</image>
+        <manufacturer>Tile</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+            <accessory>pet_collar</accessory>
+        </accessories>
+    </petTracker>
+    <petTracker id="tile_pro">
+        <name>Tile Pro</name>
+        <price>39.99</price>
+        <image>tile_pro.jpg</image>
+        <manufacturer>Tile</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+            <accessory>pet_collar</accessory>
+        </accessories>
+    </petTracker>
+    <petTracker id="tractive_gps">
+        <name>Tractive GPS</name>
+        <price>29.99</price>
+        <image>tractive_gps.jpg</image>
+        <manufacturer>Tractive</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+            <accessory>pet_collar</accessory>
+        </accessories>
+    </petTracker>
+</PetTrackerCatalog>
+
+<PhoneCatalog>
+    <phone id="apl_iphone11">
+        <name>apl_iphone11</name>
+        <price>699.99</price>
+        <image>apl_iphone11.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>apl_magsafe</accessory>
+            <accessory>charging_cable</accessory>
+            <accessory>backcover</accessory>
+        </accessories>
+    </phone>
+    <phone id="apl_iphone14pro">
+        <name>apl_iphone14pro</name>
+        <price>189.99</price>
+        <image>apl_iphone14pro.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>Used</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>apl_magsafe</accessory>
+            <accessory>charging_cable</accessory>
+            <accessory>backcover</accessory>
+        </accessories>
+    </phone>
+    <phone id="google_pixel6">
+        <name>google_pixel6</name>
+        <price>499.99</price>
+        <image>google_pixel6.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>anker_powerbank</accessory>
+            <accessory>charging_cable</accessory>
+            <accessory>backcover</accessory>
+        </accessories>
+    </phone>
+    <phone id="moto_g_stylus">
+        <name>moto_g_stylus</name>
+        <price>499.99</price>
+        <image>moto_g_stylus.jpg</image>
+        <manufacturer>Motorola</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>anker_powerbank</accessory>
+            <accessory>charging_cable</accessory>
+            <accessory>backcover</accessory>
+        </accessories>
+    </phone>
+    <phone id="sam_a53">
+        <name>sam_a53</name>
+        <price>399.99</price>
+        <image>sam_a53.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>anker_powerbank</accessory>
+            <accessory>charging_cable</accessory>
+            <accessory>backcover</accessory>
+        </accessories>
+    </phone>
+    <phone id="sam_s22_ultra">
+        <name>sam_s22_ultra</name>
+        <price>999.99</price>
+        <image>sam_s22_ultra.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>anker_powerbank</accessory>
+            <accessory>charging_cable</accessory>
+            <accessory>backcover</accessory>
+        </accessories>
+    </phone>
+</PhoneCatalog>
+
+<LaptopCatalog>
+    <laptop id="apl_macbook_air_m2">
+        <name>Apple Macbook Air M2</name>
+        <price>1299.99</price>
+        <image>apl_macbook_air_m2.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <accessories>
+            <accessory>charger</accessory>
+            <accessory>wireless_keyboard_mouse</accessory>
+        </accessories>
+    </laptop>
+    <laptop id="apl_macbook_pro_m1">
+        <name>Apple Macbook Pro M1</name>
+        <price>1999.99</price>
+        <image>apl_macbook_pro_m1.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>Used</condition>
+        <discount>15.0</discount>
+        <accessories>
+            <accessory>charger</accessory>
+            <accessory>wireless_keyboard_mouse</accessory>
+        </accessories>
+    </laptop>
+    <laptop id="lenovo_flex">
+        <name>Lenovo Flex</name>
+        <price>599.99</price>
+        <image>lenovo_flex.jpg</image>
+        <manufacturer>Lenovo</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <accessories>
+            <accessory>charger</accessory>
+            <accessory>wireless_keyboard_mouse</accessory>
+        </accessories>
+    </laptop>
+    <laptop id="lenovo_ideapad">
+        <name>Lenovo Ideapad</name>
+        <price>799.99</price>
+        <image>lenovo_ideapad.jpg</image>
+        <manufacturer>Lenovo</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+        <accessories>
+            <accessory>charger</accessory>
+            <accessory>wireless_keyboard_mouse</accessory>
+        </accessories>
+    </laptop>
+    <laptop id="sam_galaxybook">
+        <name>Samsung Galaxybook</name>
+        <price>1299.99</price>
+        <image>sam_galaxybook.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>charger</accessory>
+            <accessory>wireless_keyboard_mouse</accessory>
+        </accessories>
+    </laptop>
+    <laptop id="sam_galaxybook_pro">
+        <name>Samsung Galaxybook Pro</name>
+        <price>1799.99</price>
+        <image>sam_galaxybook_pro.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>charger</accessory>
+            <accessory>wireless_keyboard_mouse</accessory>
+        </accessories>
+    </laptop>
+</LaptopCatalog>
+
+<VoiceAssistantCatalog>
+<voiceAssistant id="amazon_echo_gen4">
+        <name>Amazon Echo 4th Gen</name>
+        <price>49.99</price>
+        <image>amazon_echo_gen4.jpg</image>
+        <manufacturer>Amazon</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>amazon_echo_wallmount</accessory>
+            <accessory>charging_cable</accessory>
+        </accessories>
+</voiceAssistant>
+<voiceAssistant id="amazon_echo_studio">
+        <name>Amazon Echo Studio</name>
+        <price>99.99</price>
+        <image>amazon_echo_studio.jpg</image>
+        <manufacturer>Amazon</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>amazon_echo_wallmount</accessory>
+            <accessory> </accessory>
+        </accessories>
+</voiceAssistant>
+<voiceAssistant id="apl_homepod_mini">
+        <name>Apple Homepod Mini</name>
+        <price>69.99</price>
+        <image>apl_homepod_mini.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>5.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+        </accessories>
+</voiceAssistant>
+<voiceAssistant id="google_nest_audio">
+        <name>Google Nest Audio</name>
+        <price>99.99</price>
+        <image>google_nest_audio.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>5.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+        </accessories>
+</voiceAssistant>
+<voiceAssistant id="google_nest_hub7">
+        <name>Google Nest Hub 7</name>
+        <price>49.99</price>
+        <image>google_nest_hub7.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>5.0</discount>
+        <accessories>
+            <accessory>charging_cable</accessory>
+        </accessories>
+</voiceAssistant>
+</VoiceAssistantCatalog>
+
+<AccessoryCatalog>
+
+    <accessory id="amazon_echo_wallmount">
+        <name>Amazon Echo Compatible Wallmount</name>
+        <price>9.99</price>
+        <image>amazon_echo_wallmount.jpg</image>
+        <manufacturer>Amazon</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+     </accessory>
+
+    <accessory id="anker_powerbank">
+        <name>Anker Powerbank</name>
+        <price>39.99</price>
+        <image>anker_powerbank.jpg</image>
+        <manufacturer>Anker</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+     </accessory>
+	 
+	 <accessory id="apl_magsafe">
+        <name>Apple Magsafe</name>
+        <price>39.99</price>
+        <image>apl_magsafe.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+     </accessory>
+
+    <accessory id="backcover">
+        <name>Mobile Case</name>
+        <price>19.99</price>
+        <image>backcover.jpg</image>
+        <manufacturer>Spiderman</manufacturer>
+        <condition>New</condition>
+        <discount>5.0</discount>
+     </accessory>
+	 
+	 <accessory id="band_replacement">
+        <name>Band Replacement</name>
+        <price>19.99</price>
+        <image>band_replacement.jpg</image>
+        <manufacturer>Spiderman</manufacturer>
+        <condition>New</condition>
+        <discount>50.0</discount>
+     </accessory>
+
+    <accessory id="carrying_case">
+        <name>Carrying Case</name>
+        <price>14.99</price>
+        <image>carrying_case.jpg</image>
+        <manufacturer>Spiderman</manufacturer>
+        <condition>New</condition>
+        <discount>30.0</discount>
+     </accessory>
+	 
+	 <accessory id="charger">
+        <name>Charger</name>
+        <price>24.99</price>
+        <image>charger.jpg</image>
+        <manufacturer>Spiderman</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+
+    <accessory id="charging_cable">
+        <name>charging_cable</name>
+        <price>9.99</price>
+        <image>charging_cable.jpg</image>
+        <manufacturer>Spiderman</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+     </accessory>
+
+    <accessory id="insignia_battery_meta">
+        <name>Insignia Battery for Virtual Headset</name>
+        <price>29.99</price>
+        <image>insignia_battery_meta.jpg</image>
+        <manufacturer>Insignia</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+     </accessory>
+	 
+	 <accessory id="insignia_grip_kit_meta">
+        <name>Insignia Grip Kit for Virtual Headset</name>
+        <price>39.99</price>
+        <image>insignia_grip_kit_meta.jpg</image>
+        <manufacturer>Insignia</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+     </accessory>
+	 	 <accessory id="pet_collar">
+        <name>Pet Collar for GPS</name>
+        <price>9.99</price>
+        <image>pet_collar.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+     </accessory>
+	 
+	 	 <accessory id="wireless_keyboard_mouse">
+        <name>Logitech Wireless Keyboard Mouse</name>
+        <price>49.99</price>
+        <image>wireless_keyboard_mouse.jpg</image>
+        <manufacturer>Logitech</manufacturer>
+        <condition>New</condition>
+        <discount>20.0</discount>
+     </accessory>
+</AccessoryCatalog>
+
+
+
+
+
+</ProductCatalog>
